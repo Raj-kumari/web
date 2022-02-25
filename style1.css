@@ -1,0 +1,15 @@
+.redElement{
+                color:red; 
+               background-color: black;
+               border: 2px     solid red
+                
+}
+.bgblue{
+    background-color: royalblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: smaller;
+    line-height: 17em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+
+}
